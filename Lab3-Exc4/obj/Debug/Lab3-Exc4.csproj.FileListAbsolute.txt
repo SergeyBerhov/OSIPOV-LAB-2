@@ -1,0 +1,11 @@
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\bin\Debug\Lab3-Exc4.exe.config
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\bin\Debug\Lab3-Exc4.exe
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\bin\Debug\Lab3-Exc4.pdb
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\obj\Debug\Lab3-Exc4.csprojAssemblyReference.cache
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\obj\Debug\Lab3_Exc4.Properties.Resources.resources
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\obj\Debug\Lab3_Exc4.Validator.resources
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\obj\Debug\Lab3-Exc4.csproj.GenerateResource.cache
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\obj\Debug\Lab3-Exc4.csproj.CoreCompileInputs.cache
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\obj\Debug\Lab3-Exc4.exe
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\obj\Debug\Lab3-Exc4.pdb
+C:\Users\riord\source\repos\Lab2\Lab3-Exc4\obj\Debug\Lab3_Exc4.Form1.resources

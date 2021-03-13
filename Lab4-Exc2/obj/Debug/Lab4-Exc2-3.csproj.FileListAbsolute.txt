@@ -1,0 +1,11 @@
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\bin\Debug\Lab4-Exc2.exe.config
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\bin\Debug\Lab4-Exc2.exe
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\bin\Debug\Lab4-Exc2.pdb
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\obj\Debug\Lab4-Exc2-3.csprojAssemblyReference.cache
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\obj\Debug\Lab4_Exc2.EditPersonForm.resources
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\obj\Debug\Lab4_Exc2.Form1.resources
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\obj\Debug\Lab4_Exc2.Properties.Resources.resources
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\obj\Debug\Lab4-Exc2-3.csproj.GenerateResource.cache
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\obj\Debug\Lab4-Exc2-3.csproj.CoreCompileInputs.cache
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\obj\Debug\Lab4-Exc2.exe
+C:\Users\riord\source\repos\Lab2\Lab4-Exc2\obj\Debug\Lab4-Exc2.pdb

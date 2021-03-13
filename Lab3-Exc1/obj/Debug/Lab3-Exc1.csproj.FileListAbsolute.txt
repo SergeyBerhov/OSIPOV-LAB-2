@@ -1,0 +1,11 @@
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\bin\Debug\Lab3-Exc1.exe.config
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\bin\Debug\Lab3-Exc1.exe
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\bin\Debug\Lab3-Exc1.pdb
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\obj\Debug\Lab3-Exc1.csprojAssemblyReference.cache
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\obj\Debug\Lab3_Exc1.Properties.Resources.resources
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\obj\Debug\Lab3_Exc1.UserControlTimer.resources
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\obj\Debug\Lab3-Exc1.csproj.GenerateResource.cache
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\obj\Debug\Lab3-Exc1.csproj.CoreCompileInputs.cache
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\obj\Debug\Lab3-Exc1.exe
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\obj\Debug\Lab3-Exc1.pdb
+C:\Users\riord\source\repos\Lab2\Lab3-Exc1\obj\Debug\Lab3_Exc1.Form1.resources

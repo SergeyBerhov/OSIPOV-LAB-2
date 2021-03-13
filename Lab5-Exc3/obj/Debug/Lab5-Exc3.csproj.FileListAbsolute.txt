@@ -1,0 +1,10 @@
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\bin\Debug\Lab5-Exc3.exe.config
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\bin\Debug\Lab5-Exc3.exe
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\bin\Debug\Lab5-Exc3.pdb
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\obj\Debug\Lab5-Exc3.csprojAssemblyReference.cache
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\obj\Debug\Lab5_Exc3.Form1.resources
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\obj\Debug\Lab5_Exc3.Properties.Resources.resources
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\obj\Debug\Lab5-Exc3.csproj.GenerateResource.cache
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\obj\Debug\Lab5-Exc3.csproj.CoreCompileInputs.cache
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\obj\Debug\Lab5-Exc3.exe
+C:\Users\riord\source\repos\Lab2\Lab5-Exc3\obj\Debug\Lab5-Exc3.pdb
